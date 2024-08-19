@@ -1,7 +1,4 @@
 import joblib
-from sklearn.svm import SVC
-from sklearn.preprocessing import StandardScaler
-import pandas as pd
 
 def predict(data):
     # Load the trained model and scaler
